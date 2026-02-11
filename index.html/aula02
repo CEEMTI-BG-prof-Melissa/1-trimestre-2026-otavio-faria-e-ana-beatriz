@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Homem-Aranha</title>
+</head>
+<body>
+  <div>
+    <h1>Homem-Aranha</h1>
+    <p>Ao ser picado por uma aranha geneticamente modificada em uma demonstração científica, 
+      o jovem nerd Peter Parker ganha superpoderes. Inicialmente, ele pretende usá-los para ganhar dinheiro, 
+      adotando o nome de Homem-Aranha e 
+      se apresentando 
+      em lutas de exibição. Porém, ao presenciar o assassinato de seu tio Ben e sentir-se culpado,
+      Peter decide não mais usar seus poderes 
+      para proveito próprio e sim para enfrentar o mal, tendo como seu primeiro grande desafio o psicótico Duende Verde.</p>
+  </div>
+  <div>
+    <img src=https://upload.wikimedia.org/wikipedia/pt/1/14/Spide-Man_Poster.jpg>
+  </div>
+    
+  <div>
+    <ol>
+      <li>Orçamento de 139 milhões de USD.</li>
+      <li>Ganhou o grammy em 2002.</li>
+      <li>Um dos filmes mais esperados daquela época.</li>
+    </ol>
+  </div>
+    
+</body>
+</html>
