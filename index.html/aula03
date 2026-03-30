@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+
+        <header>
+            <h1>Portal Tech</h1>
+            <p> Comectando você ao futuro da tecnologia</p>
+            <nav>
+                <a href="Inicio.html"> Início </a> <br>
+                <a href="Noticias.html"> Notícias </a> <br> 
+                <a href="Curso.html"> Cursos </a> <br>
+                <a href="Contato.html"> Contato </a> <br>
+            </nav>
+        </header>
+
+        <main>
+            <h2> Notícias </h2>
+            <article>
+                <h3> Notícias 0X </h3>
+            </article>
+            <p> Essa é a notícia! </p>
+        </main>
+
+        <footer>
+            <p>
+                Ana Beatriz e Otávio Faria <br>
+                3° 01 IPI <br>
+                2026 
+            </p>
+        </footer>
+
+    </body>
+</html>
